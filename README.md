@@ -1,6 +1,3 @@
-Here’s a professional and concise `README.md` for your **AI-Powered Wallet Credit Scoring Project** with Zeru Finance, as described in the presentation:
-
----
 
 # 🧠 AI-Powered Wallet Credit Scoring
 
@@ -98,10 +95,3 @@ Scored Wallet CSV + Streamlit Dashboard
 **Bayoju Vikas**
 [LinkedIn](https://www.linkedin.com/in/bayoju-vikas-81578726a)
 
----
-
-Let me know if you’d like:
-
-* A `requirements.txt`
-* Streamlit deployment setup
-* Sample CSV or screenshots of the dashboard for visual README enhancements
