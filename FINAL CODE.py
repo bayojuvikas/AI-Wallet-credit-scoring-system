@@ -3,7 +3,7 @@ import json
 import os
 
 # -------- CONFIGURATION -------- #
-DATA_DIR = r"C:\Users\umad3\PycharmProjects\eye"
+DATA_DIR = r"your file path"
 FILE_NAMES = [
     "compoundV2_transactions_ethereum_chunk_0.json",
     "compoundV2_transactions_ethereum_chunk_1.json",
